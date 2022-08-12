@@ -15,3 +15,4 @@ public class Thermometer {
 	}
 	
 }
+//Yesterday was Wednesday
